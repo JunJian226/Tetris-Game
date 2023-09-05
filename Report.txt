@@ -1,0 +1,1 @@
+tried using combine latest instead of merge
