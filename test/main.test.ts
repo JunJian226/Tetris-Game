@@ -9,3 +9,4 @@ describe("main", () => {
     assert.isFunction(main);
   });
 });
+
