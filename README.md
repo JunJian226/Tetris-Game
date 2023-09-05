@@ -17,13 +17,14 @@ Serve up the App (and ctrl-click the URL that appears in the console)
 > npm run dev
 ```
 
-Game Controls: 
+## Game Controls: 
   - A     --  Moving block to left
   - S     --  Moving block to right
   - D     --  Moving block down 
   - W     --  Rotate block clockwise
   - Q     --  Rotate block anti-clockwise
   - Enter --  Restart game (only possible when game is already over)
+  - Space --  Hard drop block
 
 ## Implementing features
 
