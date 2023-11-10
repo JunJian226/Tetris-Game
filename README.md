@@ -1,5 +1,5 @@
 # Tetris Game 
-Written for FIT2102 Assignment.
+Initially written for a University Assignment.
 
 ## Usage
 
